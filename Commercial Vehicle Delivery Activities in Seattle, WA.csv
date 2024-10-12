@@ -1,0 +1,424 @@
+Day,Work_Start_Time,Truck_Enter_Time,Parked_Time,Parked_Time2,Parked_Time3,Engine_Off_Time,Engine_Off_Time2,Engine_Off_Time3,Parked_Location,Vehicle_Type,Delivery,Pickuponly,Handtruck (Y/N),Num_Small_Package,Num_Large_Package,Num_Oversized_Package,Num_Delivery_Workers,Num_Package_Picked,Pickup,Num_Package_Failed,Failed,Reason for Failed,Engine_On_Time,Truck_Leave_Time,Notes
+2/5/2018,AM,8:46:35,8:46:59,,,8:47:02,,,4,B,0,,N,2,0,0,2,0,,,,,8:50:25,8:50:53,
+2/5/2018,AM,10:12:50,10:13:10,,,10:13:13,,,1,V,0,,N,0,0,0,1,0,,,,,10:13:55,10:14:10,The van is from  city of seattle and parked the truck and took a hand truck and leave
+2/5/2018,AM,10:50:18,10:50:30,10:51:04,,10:50:33,10:51:16,,1,CV,1,,Y,6,4,0,1,1,1,,,,11:31:46,11:31:53,
+2/5/2018,AM,11:50:33,11:51:01,,,11:51:09,,,4,SV,0,,N,0,0,0,1,0,,,,,12:20:51,12:21:29,The driver rearranged his tools ( ladder and two red tool boxes) and stays for about 30 minutes 
+2/5/2018,AM,11:55:41,11:56:00,,,11:58:06,,,5,V,0,,Y,10,5,0,1,2,1,,,,12:19:59,12:20:37,
+2/5/2018,PM,13:09:55,13:10:09,,,13:10:14,,,4,V,0,,N,0,0,0,1,0,,,,,14:20:04,14:22:19,The driver(worker) parked for 1 hr and only load a black tool box into his van and left.
+2/5/2018,PM,15:19:15,15:19:45,,,15:19:47,,,5,SV,0,,N,0,0,0,2,0,,,,,,,A contracting service van full of tools inside 
+2/5/2018,PM,13:07:37,13:07:51,,,13:08:16,,,1,V,0,,N,0,0,0,1,0,1,,,,13:25:00,13:25:10,another person comes back with packages - 47 Small Envelop 
+2/5/2018,PM,15:02:01,15:02:25,,,15:02:33,,,5,V,0,,N,0,0,0,1,0,1,,,,15:18:23,15:18:38," brought  1(mail) to the building but brought 21 boxes  - mails back with HandTruck and then it took him some time to put handTruck back,"
+2/5/2018,PM,15:20:23,15:21:01,,,15:21:07,,,2,B,,,N,0,0,0,2,0,,,,,,,The mentioned that they only did maintenance
+2/5/2018,AM,9:19:08,9:19:50,,,9:20:23,,,2,B,0,,Y,0,124,0,1,0,,,,,9:30:10,9:31:01,
+2/5/2018,AM,10:07:43,10:08:36,10:10:01,,10:08:40,10:10:01,,4,B,0,,Y,0,125,0,2,3,1,,,,11:11:10,11:12:03,
+2/5/2018,AM,10:58:22,10:59:16,,,10:59:27,,,3,B,0,,N,0,0,0,1,0,,,,,11:05:28,11:06:07,"just come to the security officer, no deliver activities"
+2/6/2018,AM,9:26:28,9:27:15,9:28:35,,9:27:15,9:28:37,,4,BV,0,,Y,0,0,1,1,0,,,,,10:17:22,10:17:34,"The track had two park time because it was adjusting position for dock, 1 oversized package size(6'2 x 3')"
+2/6/2018,AM,9:45:40,9:45:53,,,9:45:54,,,1,V,0,,N,0,0,0,1,0,,,,,10:06:32,10:06:35,not a delivery vehicle 
+2/6/2018,PM,12:28:02,12:28:13,,,12:28:15,,,1,V,0,,N,0,0,0,1,0,,,,,13:04:19,13:04:22,
+2/6/2018,PM,13:34:54,13:35:46,,,1:35:47,,,1,V,0,,Y,0,11,0,1,3,1,,,,14:04:49,14:04:55,
+2/6/2018,PM,14:21:26,14:22:18,,,14:22:24,,,4,SV,0,,N,0,0,0,1,0,,,,,,,
+2/6/2018,PM,14:40:43,14:41:19,,,14:41:26,,,3,V,0,,N,0,0,0,1,0,1,,,,15:08:37,15:08:47,"Pic 10 security put barricades because he wants construction contractor to come to ask him, See pic 11 with handtruck"
+2/6/2018,AM,8:37:18,8:37:25,,,8:37:38,,,1,V,0,,N,0,0,0,1,0,,,,,9:29:19,9:29:29,This van delivers envelope letters
+2/6/2018,AM,9:44:04,9:44:53,9:46:19,9:47:35,9:45:04,9:46:39,9:47:47,3,B,0,,Y,2,66,1,1,0,,,,,14:26:21,14:26:28,Parked three times but no packages 
+2/6/2018,AM,10:41:09,10:41:42,10:42:12,,10:41:51,10:42:51,,1,CV,1,,Y,5,8,1,1,0,,,,,11:24:58,11:25:09,The ups truck return 0 packages
+2/6/2018,PM,12:16:20,12:16:54,,,12:16:55,,,4,SV,0,,N,0,0,0,2,0,,,,,12:19:29,12:19:33,They are voluteers of a charity organization. They come back with some toilet paper for recycling. Parking location 4 is close to the room where the paper is stored in.
+2/6/2018,PM,13:20:44,13:21:01,,,13:21:02,,,5,P,1,,Y,1,4,0,1,0,,,,,13:41:59,13:42:56,The driver brought back 5 flatted empty box. Two of the large packages are the drawings.
+2/6/2018,PM,13:51:29,13:51:56,,,13:51:57,,,2,CV,1,,Y,8,1,0,1,1,1,,,,14:31:11,14:31:16,The driver talked with security person for about 1 minute.
+2/6/2018,PM,14:25:16,14:26:53,,,14:26:54,,,5,SV,0,,N,0,0,0,1,0,,,,,,,The car was still there when we left.
+2/7/2018,PM,12:28:53,12:29:20,,,12:29:23,,,5,V,0,,N,0,0,0,1,0,,,,,13:10:05,13:10:47,He is from city of seattle and took some documents (mails) in a USPostal service basket and went up
+2/7/2018,PM,13:09:52,13:10:42,,,13:10:44,,,3,Cv,1,,Y,11,0,0,1,0,,,,,13:38:16,13:38:36,
+2/7/2018,PM,14:54:46,14:54:55,,,14:54:58,,,4,P,1,,Y,1,2,0,1,0,,,,,15:13:31,15:13:56,
+2/7/2018,PM,15:24:55,15:25:24,15:26:07,,15:26:09,,,5,SV,0,,N,0,0,0,2,0,,,,,,,A contracting service van full of tools inside 
+2/7/2018,PM,15:46:45,15:47:42,,,15:47:46,,,3,B,1,,Y,0,11,0,1,0,,,,,16:03:44,16:04:28,
+2/7/2018,PM,14:50:31,14:51:05,,,14:51:05,,,3,B,0,,Y,0,0,2,2,2,,,1,4,15:40:17,15:40:48,The driver delivered a new chair and a a large box. One of them said they brought back a shelf and chair that the customer didn't like from the building 
+2/7/2018,PM,14:56:03,14:57:23,,,14:59:04,,,5,CV,0,,Y,0,3,0,1,3,1,,,,15:24:34,15:25:40,The driver picked up 14 baskets of envelopes to be delivered and 3 large  packages
+2/7/2018,PM,15:39:35,15:40:01,,,15:49:03,,,1,B,0,,Y,0,0,0,2,14,1,,,,15:45:27,15:45:40,Two small and 12 large packages picked up from the building.
+2/7/2018,AM,8:22:02,8:23:00,,,8:23:01,,,2,P,0,,N,0,0,0,1,0,,,,,8:30:06,8:30:32,Truck for construction 
+2/7/2018,AM,8:35:30,8:36:02,,,8:36:05,,,1,V,0,,Y,3,0,0,1,0,,,,,9:11:46,9:12:55,several mail baskets for documents
+2/7/2018,AM,10:11:35,10:12:09,,,10:12:13,,,2,B,0,,Y,1,0,3,1,0,,,,,13:44:24,13:45:18,3 oversized package are chairs
+2/7/2018,AM,10:29:30,10:30:25,,,10:30:26,,,1,P,1,,N,0,0,5,1,0,,,,,10:33:45,10:34:20,"honda, parked in the LB to wait somebody pickup several posters, went to passenger parking area after"
+2/7/2018,AM,11:14:57,11:15:22,,,11:15:27,,,1,B,0,,N,0,0,0,1,0,,,,,14:04:59,14:05:17,"Not a delivery truck, sit for 30 minutes"
+2/7/2018,AM,11:32:22,11:33:16,,,11:33:20,,,3,V,0,,N,0,1,0,1,1,1,,,,11:47:16,11:49:57,
+2/7/2018,AM,12:13:19,12:14:22,,,12:14:24,,,4,V,1,,Y,0,28,0,1,0,,,,,13:05:52,13:06:20,white copy papers
+2/7/2018,AM,8:19:20,8:20:18,,,8:20:28,,,3,CV,0,,N,,,,2,,,,,,11:31:26,11:32:19,"Brought one chair, came back with a ceiling light, then brought up cardboard and metal scraps"
+2/7/2018,AM,8:37:07,8:39:28,,,8:40:50,,,5,CV,0,,Y,,36,,1,67,1,,,,12:04:48,12:05:27,"Talked with Mike while delivering the packages, talked on the phone sometimes"
+2/7/2018,AM,9:07:20,9:08:10,,,9:08:12,,,8,P,1,,N,1,0,0,1,0,,,,,9:15:09,9:15:30,Parked originally in spot 2 and then moved to the wall by the entrance
+2/7/2018,AM,10:44:08,10:45:29,,,10:45:36,,,1,SV,0,,N,0,0,0,1,0,,,,,10:55:20,10:55:25,Came and then left without delivering anything
+2/7/2018,AM,10:50:10,10:51:33,,,10:51:38,,,4,CV,1,,Y,10,2,1,1,0,,,,,11:36:55,11:37:20,"3 envelopes and 7 small boxes, left with nothing"
+2/8/2018,AM,8:05:05,8:06:25,,,8:07:10,,,1,CV,1,,N,0,1,0,1,0,,,,,8:21:58,8:22:35,"Delivered one box with what looked like gold fish crackers inside of it. Possibly for bloodworks, as he also had drinks in his van which they normally have at blood drives for after you donate blood."
+2/8/2018,AM,8:39:30,8:39:36,,,8:39:41,,,1,CV,0,,Y,0,3,0,1,0,,,,,9:09:15,9:10:37,Had 3 mail boxes with him that he brought back empty after delivering the contents
+2/8/2018,AM,8:47:24,8:47:50,,,8:48:11,,,4,,1,,Y,1,0,0,1,5,1,,,,8:59:00,8:59:21,"Had one envelope which he delivered to a lady who met him there. He also picked up a backpack, a computer moniter, an empty water fountain bottle, a box, and a foldable table from the loading dock. "
+2/8/2018,AM,9:34:41,9:35:16,,,9:35:19,,,5,CV,0,,Y,0,0,10,1,0,,,,,9:41:35,9:42:16,Delivered 10 boxes that ocntained fluorescent lights made by general electrics. He put them on the back wall opposite the elevator 
+2/8/2018,AM,11:32:49,11:33:57,11:35:32,,11:34:01,11:35:53,,4,CV,0,,Y,10,54,0,1,0,,,,,12:44:13,12:44:17,Delievered parts for a computeer. HP Elite Display monitors
+2/8/2018,AM,7:59:49,8:00:09,,,8:00:17,,,4,B,0,,Y,4,8,1,2,0,,,,,8:04:58,8:05:16,The over-sized object was a donor bed.
+2/8/2018,AM,8:00:00,8:00:59,,,8:01:03,,,3,B,0,,Y,1,23,4,1,1,1,,,,11:19:17,11:19:57,
+2/8/2018,AM,8:46:26,8:47:28,,,8:48:19,,,2,B,0,,Y,0,0,1,2,1,1,,,,11:31:30,11:33:02,They picked up  old desk and brought a new desk from the truck.
+2/8/2018,PM,12:17:59,12:18:05,,,12:18:09,,,1,SV,0,,N,0,0,0,1,0,1,,,,13:16:27,13:16:40,"Deliver documents and building documents , put hundreds of mailboxs back. See picture"
+2/8/2018,PM,12:36:07,12:36:42,12:37:17,,12:37:00,12:37:19,,3,CV,0,,Y,0,0,1,1,1,1,,,,13:06:39,13:07:09,"Deliver a box of cloths , drop off and pick up"
+2/8/2018,PM,12:53:09,12:53:15,,,12:53:22,,,5,SV,0,,N,0,0,0,2,0,,,,,15:41:40,15:42:04,Deliver documents 
+2/8/2018,PM,13:24:05,13:24:55,,,13:25:04,,,1,V,0,,Y,0,4,0,1,0,,,,,13:42:40,13:42:43,Deliver packages to 3rd floor
+2/8/2018,PM,14:01:42,14:02:16,,,14:02:23,,,2,CV,1,,Y,10,43,0,2,0,,,,,14:18:11,14:18:23,"Ups delivery , two delivery works, one parks his car at the loading bay, another from outside of the parking garagae, and drive another car "
+2/8/2018,PM,14:23:10,14:24:14,,,14:24:24,,,3,SV,0,,N,0,0,0,0,0,,,,,14:29:59,14:30:07,"Deliver nothing, park a few minutes and leave, talk with some people for while"
+2/8/2018,PM,14:57:38,14:57:45,,,14:57:53,,,4,SV,0,,N,0,0,0,0,0,1,,,,15:20:45,15:20:48,Pick up envelopes 
+2/8/2018,PM,15:39:51,15:40:57,15:41:51,,15:40:59,15:42:53,,4,B,0,,N,0,0,0,6,7,1,,,,15:48:34,15:48:44,The car come to pick up many medical equipments about 6 large box ( very large)
+2/8/2018,PM,12:19:24,12:19:27,,,12:19:30,,,5,P,1,,N,1,0,0,1,0,,,,,12:29:43,12:29:49,Normal Vehicle 
+2/8/2018,PM,12:41:09,12:41:20,,,12:41:27,,,2,CV,0,,Y,3,0,0,1,6,1,,,,12:55:21,12:55:26,"All six packages are picked up in the building, Five large and one small"
+2/8/2018,PM,13:23:33,13:24:19,,,13:24:22,,,4,SV,0,,N,0,0,0,1,0,,,,,13:42:32,13:43:10,Not for packages delivery
+2/8/2018,PM,13:51:15,13:51:33,,,,,,3,P,0,,N,0,0,0,1,2,1,,,,,13:57:17,"Not for packages delivery, for picking up materials (doors), engine was on at all time, came from underground parking garage"
+2/8/2018,PM,14:19:21,14:19:38,,,14:19:40,,,4,P,1,,Y,0,0,6,1,0,,,,,14:35:07,14:35:19,Normal vehicle 
+2/8/2018,PM,14:43:27,14:43:52,14:44:18,,14:43:55,14:44:19,,4,V,0,,Y,0,14,3,2,0,,,,,14:50:25,14:50:31,"1 Driver and 1 passenger, Drop all the packages and the driver drived the vehicle and left, the other man stay there with the package, a man from the building came out with HandTruck and begin to deliver for the first Round, and then for the Second Round Delivery, two mem came from the building to deliver"
+2/8/2018,PM,15:34:16,15:34:50,,,15:34:51,,,3,P,1,,Y,12,0,0,1,0,,,,,15:50:42,15:50:44,"Not normal packages, but are prints, graphics"
+2/9/2018,PM,12:07:28,12:10:36,,,12:10:42,,,5,B,0,,N,0,0,21,1,0,,,,,14:30:12,14:30:30,"This truck had trouble parking. Seemed to be deliverying items for some kind of renovation (i.e. wood). Also rolled in large boxes, as seen in photos, which may have had sometihng inside."
+2/9/2018,PM,12:22:41,12:24:53,14:16:21,,12:25:36,14:17:02,,4,B,0,,Y,0,96,0,2,96,,,1,3,15:13:50,15:14:10,"This company was deliverying water to the water coolers throughout the building. At one point, he reparked to better position himself to unload more water. In the end, 3 water jugs were failed to be delivered as he had miscounted how many he would need to deliver. The two delivery drivers took 7 trips into the building, each time with 16 jugs of water. They returned with all of the empty bottles as well."
+2/9/2018,PM,13:33:05,13:33:33,,,13:33:43,,,2,P,1,,N,0,4,0,1,0,,,,,13:52:39,13:52:55,"Delivered in a passenger car. He delivered 4 water heaters, which he gave to someone who met him in the loading dock. The person who met him did not know he was here, and the delivery driver had to sit and wait for 20 minutes until he called someone for someone to show up to pick up the items. The man signed, and the delivery driver left."
+2/9/2018,PM,13:59:34,13:59:59,,,14:00:06,,,2,V,1,,Y,1,18,0,2,0,,,,,14:17:42,14:18:13,Quick and efficient delivery
+2/9/2018,PM,14:54:51,14:56:05,,,14:56:11,,,5,CV,0,,Y,0,3,0,1,0,1,,,,15:22:45,15:23:08,"Returned with 20 mail boxes, which most likely had indivudal letters in them. He also delivered 3 boxes, but to another MC delivery truck"
+2/9/2018,AM,9:03:43,9:05:20,,,9:06:02,,,4,B,0,,Y,0,14,0,2,213,1,,,,12:19:48,12:20:24,Packages taken: 174 large. Packages brought: 14 (13+ 1 shown in image 1 and 3) A large handtruck was also brought by them(image 2).The vehicle was there when I left.  Hossana: Picked up 39 large boxes and wrapped them all up before loading. 
+2/9/2018,AM,9:33:38,9:34:58,,,9:35:02,,,3,B,0,,Y,1,1,0,2,14,1,,,,15:33:34,15:33:55,"Image 2 shows the packages. There is a green bag and some tools that haven't been included. The box in image 3 was also taken out. It wasn't a package. The vehicle was there when I left.  Hosanna:10 rollers (flat matt with wheels on it), and 4 oversized packages"
+2/9/2018,AM,10:34:22,10:35:40,,,10:36:08,,,5,V,0,,N,0,0,0,1,0,,,,,10:49:19,10:50:04,"The driver parked the van, talked to Mike and left. He did not have packages."
+2/9/2018,AM,11:35:19,11:36:19,,,11:36:21,,,2,B,0,,Y,0,0,1,1,0,,,,,11:47:09,11:47:54,The package comprised multiple large boxes wrapped together (as shown in image 2) and is therefore considered as 1 oversized package.
+2/9/2018,AM,,,,,,,,1,V,0,,,0,0,0,0,0,,,,,8:16:32,8:23:06,"In the garage before 8:00am, driver is on the phone"
+2/9/2018,AM,,,,,,,,2,B,0,,Y,9,13,4,1,2,1,3,1,5,11:11:24,11:14:19,"In the garage before 8:00am , For the frist delivery, he brought to many packages on the Hand truck, therefore, it's too tall and oversize, therefore, he dropped off a few of them and bring them back to reload them with more packages left in the truck and do a secondary delivery, the two packages picked up are returned packages, and he took back those and bring more packages on the HT and going to do a third delivery , for his third delivery he came back in from entrance,  For this delivery, he delivered it outside the building (1 small, 2 big packages - not included in this building) because his area is this building and the other one"
+2/9/2018,AM,,,,,,,,3,B,0,,,,,,,,,,,,8:55:29,8:55:43,In the garage before 8:00am
+2/9/2018,AM,,,,,,,,5,V,0,,,,,,,,,,,,9:07:51,9:08:03,In the garage before 8:00am
+2/9/2018,AM,8:13:01,8:13:24,,,8:13:33,,,4,SV,0,,N,0,0,0,0,0,,,,,8:21:06,8:21:08,Come in the wrong building then left
+2/9/2018,AM,8:14:38,8:14:58,,,8:15:22,,,8,SV,0,,N,0,0,0,0,0,,,,,8:19:34,8:20:04,"The garage is full, it parked on the side and then left"
+2/9/2018,AM,9:12:42,9:13:01,,,9:13:09,,,5,V,0,,N,0,1,0,1,0,,,,,9:36:03,9:36:07,A dozen of drinks
+2/9/2018,AM,11:01:33,,,,,,,,P,0,,Y,0,0,4,1,0,,,,,,11:31:31,"This one tried to enter and park inside, but failed. Therefore it parked outside the building as picture shown, affected traffic a lot during this period. The total truck has six regular restrooms and one restroom for disabled people. They unloaded 3 regular restrooms and 1 restroom for disabled people, left them in the garage and then left. The engine is on all the time"
+2/9/2018,PM,12:12:08,12:12:56,12:14:10,,12:12:58,12:14:13,,2,B,0,,Y,1,19,0,1,21,1,,,,12:55:05,12:55:09,"If you track the information from yesterday afternoon, you will find this company delivered 40 large pagages (hp) yesterday afternoon, but delivery a wrong style. Therefore, they deliver the right ones today and pick up the wrong ones day"
+2/9/2018,PM,12:12:08,12:12:56,12:14:10,,12:12:58,12:14:13,,2,B,0,,Y,0,21,0,1,19,1,,,,12:55:05,12:55:09,The same truck as the above one
+2/9/2018,PM,12:28:01,12:28:12,,,12:28:16,,,1,V,0,,N,,,,,,,,,,13:12:25,13:12:43,"It's not for delivery, a man bring a tool box looks like he will fix or install something"
+2/9/2018,PM,12:47:38,12:57:17,12:57:17,,,,,2,P,0,,Y,,,,,,,,,,,13:06:45,"This is the same one as above. In the morning, it could not parking because of the trailer and the hook, so he left those restrooms and then left to unload the trailer. Now he came back to move the restrooms from the bottom layer to the top layer. When he came in, the garage is full, he parked on the side and reload two restrooms on his truck and wait. Luckily, DENALI is going to left. Then he took the location 2, and unload the restrooms to the top layer, and then do the same thing to the remain one. Engine is all time on."
+2/9/2018,PM,13:41:28,13:41:31,,,13:41:42,,,1,P,0,,N,0,0,0,0,0,,,,,13:49:45,13:49:53,"It's not here for delivery. More like personal business, bring something like paperwork "
+2/9/2018,PM,14:26:40,14:27:28,,,14:27:30,,,1,SV,0,,Y,0,0,0,0,2,1,,,,14:46:12,14:46:16,"The vehicle came from the upper parking garage. It's not here for delivering but picking up staffs. Four people from the building including her bring the staffs down. Finally, it drove back to the upper garage again"
+2/9/2018,PM,15:11:26,15:11:50,,,15:11:53,,,2,CV,0,,Y,0,0,0,0,5,1,,,,15:19:06,15:19:58,"If you track the information from my partner, there is another MC Delivery truck parking at Location 5. Driver of my vehicle is not here for delivery but for picking up 5 packages from the other car. 3 small ones and two large ones"
+2/12/2018,AM,8:48:40,8:49:13,,,8:50:08,,,2,B,0,,Y,1,85,19,1,0,,,,,9:04:55,9:05:26,"Regularly deliver paper towels, toilet papers etc.. for the building usually on Monday ( super fast delivery man)"
+2/12/2018,AM,9:19:34,9:20:28,9:23:04 AM,10:10:50 AM,9:21:26,9:23:08,10:10:55,2, V,0,,Y,0,0,0,1,0,,,,,13:02:58,13:03:03,"he changed parked locatin three times ( 2,5 then 4 - parked around10ish) he brought several pack of soda drinks and left one pack"
+2/12/2018,AM,9:26:33,9:27:48,,,9:27:51,,,2,B,0,,Y,0,0,3,2,0,,,,,12:43:06,12:43:07,Three tables 
+2/12/2018,AM,10:11:55,10:14:01,,,10:16:28,,,5,SV,0,,N,0,0,0,1,0,,,,,10:32:08,10:34:32,He took four portable toilets 
+2/12/2018,AM,11:19:11,11:19:47,,,11:19:53,,,5,B,0,,N,0,0,1,1,0,,,,,11:49:00,11:49:12,Delivered a big copy machine 
+2/12/2018,PM,13:33:11,13:33:59,,,13:34:04,,,3,B,1,,Y,1,1,0,1,0,,,,,13:57:37,13:58:09,
+2/12/2018,PM,14:03:34,14:04:07,,,14:04:14,,,2,B,0,,N,0,1,0,2,0,,,,,15:06:31,15:07:19,
+2/12/2018,PM,15:20:55,15:21:25,,,15:21:56,,,5,SV,0,,N,0,0,0,2,0,,,,,,,these guys are the same electrician contractor
+2/12/2018,PM,15:33:30,15:33:41,,,15:33:49,,,1,V,0,,Y,1,3,0,1,0,,,,,,,we run out of time to record the engine on time and truck leave time
+2/12/2018,PM,12:37:33,12:38:00,,,12:38:04,,,3,SV,0,,Y,0,0,0,1,0,,,,,12:52:57,12:53:01,They are delivering 3 big water bottoles
+2/12/2018,PM,12:40:05,12:41:46,12:42:57,,12:41:50,12:43:22,,1,BT,0,,Y,0,36,0,1,0,,,,,13:41:47,13:42:07,They deliver multiple times. First time - Pic 1 (computer machinery) ; Second time Pic 3 (28 packages); 3rd time Pic 4 (8 packages); 4th time Pic 5
+2/12/2018,PM,13:02:23,13:03:00,,,13:03:01,,,3,V,0,,N,0,0,0,1,0,1,,,,13:25:08,13:25:12,"They come back with mail did not count, see pictures"
+2/12/2018,PM,13:05:05,13:05:30,,,13:05:31,,,2,BT,1,,Y,0,8,0,1,0,,,,,13:26:56,13:27:22,
+2/12/2018,PM,14:47:21,14:48:15,,,14:48:31,,,5,V,0,,N,0,0,0,1,0,1,,,,15:19:52,15:20:17,"They come back with lots of mails, did not count, see pictures"
+2/12/2018,AM,8:21:35,8:21:43,,,8:21:52,,,3,SV,0,,N,0,0,0,1,0,,,,,9:33:37,9:34:07,Construction  service van not a delivery truck
+2/12/2018,AM,8:51:01,8:51:27,,,8:51:28,,,4,V,0,,Y,2,1,0,1,0,,,,,9:29:23,9:30:50,Several mail boxes
+2/12/2018,AM,9:04:10,9:06:11,,,9:06:34,,,5,B,0,,Y,16,0,0,2,0,,,,,9:21:08,9:21:49,Food and drinks 
+2/12/2018,AM,11:22:15,11:23:08,11:23:48,,11:23:14,11:23:49,,3,CV,1,,Y,8,13,1,1,0,,,,,11:57:22,11:58:05,
+2/12/2018,AM,12:21:00,12:22:03,,,12:22:04,,,5,P,0,,Y,2,9,0,1,3,1,,,,12:57:48,12:58:00,3 packages for recycling purpose
+2/13/2018,PM,12:36:43,12:36:55,,,12:36:56,,,1,V,0,,N,0,0,0,1,0,,,,,,,"Take some personal items, car types and items "
+2/13/2018,PM,12:47:24,12:47:27,,,12:47:33,,,3,P,0,,N,0,0,0,1,0,,,,,12:56:57,12:57:02, Take some personal items
+2/13/2018,PM,13:25:22,13:26:02,13:35:26,,13:26:05,13:35:33,,3,CV,1,,Y,1,5,1,1,1,1,1,1,5,13:59:40,14:00:38,"the driver moves the car because the oversized packages, they have 1 pick up and 1 failure, when the driver leaves, she moves the car again to close the door"
+2/13/2018,PM,14:25:49,14:26:15,14:26:43,,14:26:19,14:26:56,,4,CV,0,,Y,0,0,0,1,0,1,,,,14:55:29,14:55:34,"The driver moves the car to open the door when he drives in, he comes back two times, he stops one time when he is leaving at 14:56:18 to close the door."
+2/13/2018,PM,15:26:18,15:26:28,,,15:26:32,,,5,SV,0,,Y,0,0,0,2,0,,,,,,,Contractors bring in tools 
+2/13/2018,PM,13:50:00,13:50:03,,,13:50:04,,,8,P,0,,N,0,0,0,1,0,,,,,14:14:53,14:15:04,Bring one copy of drawing - oversized
+2/13/2018,AM,,,,,,,,5,B,0,,Y,0,15,0,1,0,,,,,9:13:17,9:13:29,This truck is already parked there when I came in around 7:53 Am
+2/13/2018,AM,8:15:54,8:16:32,,,8:16:37,,,3,B,0,,Y,0,3,0,1,0,,,,,8:41:59,8:42:03,
+2/13/2018,AM,8:56:49,8:57:55,,,8:59:19,,,4,B,0,,Y,0,0,0,1,3,1,,,,,,"I talked to the worker, he didn't deliver, he just pick up surplus from the building, 3 big oversize boxes, and 10 chairs"
+2/13/2018,AM,9:15:20,9:15:34,,,9:16:05,,,5,CV,0,,N,2,0,0,1,0,,,,,9:41:26,9:41:30,
+2/13/2018,AM,11:39:34,11:40:08,,,11:40:47,,,5,CV,0,,N,0,0,0,1,0,,,,,11:56:00,11:56:08,"The truck parked about 15 min, and doesn't deliver or oick up"
+2/13/2018,PM,12:33:55,12:34:46,,,12:34:59,,,5,V,0,,Y,0,18,0,1,,,15,1,6,14:19:56,14:20:02,He brought in 13 packages of beverage and 5 packages of snack to refill vending machine. He brought back 10 packages of beverage and 5 packages of snack.
+2/13/2018,PM,12:40:41,12:41:18,,,12:41:25,,,4,V,0,,Y,0,8,0,1,25,1,,,,14:19:56,14:20:02,He delivers printers and some computer appliances and took back some used appliances for recycling.
+2/13/2018,PM,13:03:25,13:03:28,,,13:03:29,,,3,P,0,,Y,0,0,0,1,1,1,,,,13:24:20,13:24:39,He brought in an empty hand truck and brought back a used copier.
+2/13/2018,PM,15:15:20,15:15:52,15:16:27,,15:15:53,15:16:28,,3,CV,1,,Y,3,10,0,1,,,2,1,5,15:45:42,15:45:44,One of the small packages is a mail. The deliver is failed because receivers no longer work here.
+2/13/2018,PM,15:47:33,15:48:01,,,15:48:02,,,4,V,0,,N,0,0,0,1,0,,,,,,,The car was still there when we left.
+2/13/2018,AM,8:08:36,8:09:16,,,8:09:21,,,1,P,1,,Y,5,7,,4,,1,,,,8:40:57,8:41:03,"came from the upper garage, pick up, 7 large 5 small"
+2/13/2018,AM,8:48:39,8:48:47,,,8:48:56,,,1, V,0,,Y,,4,,1,,,,,,9:27:31,9:27:57,"frist delivery, 4 trays of letters"
+2/13/2018,AM,8:48:39,8:48:47,,,8:48:56,,,1,V,1,,Y,,5,,1,2,1,,,,9:27:31,9:27:57,"second delivery, 5 large packages, with two trays of letters and documents back"
+2/13/2018,AM,9:07:06,9:09:56,,,9:10:58,,,2,B,0,,Y,,,,1,,,,,,11:49:43,11:51:43,"Two tool boxes, a chair, an oversize back"
+2/13/2018,AM,9:59:01,9:59:15,,,9:59:17,,,5,V,0,,N,0,1,0,1,,,,,,10:09:42,10:09:45,
+2/13/2018,AM,10:40:19,10:41:22,,,10:41:25,,,5,B,0,,Y,,,,,6,1,,,,10:43:54,10:44:00,"pick up half roll toliet paper, because always want the buiding has dull rolls paper, give them to people who cannot affort toilet paper"
+2/13/2018,AM,10:48:47,10:48:51,,,10:49:03,,,1,P,0,,Y,,1,1,1,,,,,,11:42:05,11:42:23,
+2/13/2018,AM,10:52:01,10:52:56,,,10:52:58,,,3,B,0,,Y,,,9,2,,,,,,11:05:38,11:05:43,"driver dropped off all cabinets and left, another worker came out to pick up"
+2/14/2018,PM,12:51:48,12:51:54,,,12:51:57,,,1,v,0,,N,1,0,0,1,0,,,,,13:08:28,13:08:57,he delivered 1 basket full of mails
+2/14/2018,PM,13:03:54,13:04:10,,,13:04:14,,,4,v,0,,Y,17,5,0,1,15,1,,,,14:09:13,14:09:54,15 empty toners were returned for recycling
+2/14/2018,PM,13:39:31,13:39:56,,,13:40:01,,,3,v,1,,Y,11,7,0,1,,,1,1,1,14:40:31,14:40:54,She delivered 18 packages and returned 1 ( said she will try delivering it tomorrow )
+2/14/2018,PM,13:39:52,13:41:07,,,13:41:09,,,5,V,0,,N,0,0,0,1,0,,,,,13:53:33,13:53:54,He didn't pick up any mails and just left
+2/14/2018,PM,13:49:09,13:50:25,,,13:50:30,,,2,B,0,,Y,0,1,1,1,0,,,,,14:40:42,14:41:06,Delivered one big office table and one large box 
+2/14/2018,PM,14:54:05,14:54:47,,,14:55:20,,,5,V,0,,Y,0,0,0,1,0,,,,,15:22:56,15:23:07,He picked up 35 baskets full of mails
+2/14/2018,PM,15:32:04,15:32:14,,,15:32:17,,,1,V,0,,N,0,1,0,1,0,,,,,,,Out for delivery ( 1 box)
+2/14/2018,PM,15:53:22,15:53:50,,,15:53:52,,,5,SV,0,,N,0,0,0,1,0,,,,,,,He left his SV for the whole night
+2/14/2018,AM,9:23:47,9:24:46,,,9:24:50,,,4,B,0,1,Y,0,0,0,1,9,1,,,,11:26:02,11:27:04,9 boxes 8 cabinets 
+2/14/2018,AM,9:33:45,9:33:55,,,9:33:57,,,1,P,0,,N,0,0,0,1,0,,,,,10:13:59,10:17:06,city of Seattle employee for IT
+2/14/2018,AM,10:12:25,10:12:49,,,10:12:51,,,2,V,0,,Y,0,0,0,1,0,,,,,10:51:37,10:51:50,Bring one luggage for chair repairing
+2/14/2018,AM,11:26:30,11:26:37,,,11:26:40,,,2,P,1,,Y,3,1,0,3,0,,,,,11:27:46,11:28:14,2 people with handtruck waiting at the loading bay for drinks
+2/14/2018,AM,8:22:03,8:22:42,,,8:22:46,,,4,CV,0,,N,0,1,1,1,0,,,,,8:41:44,8:42:11,Oversized seemed to be something resembling a table
+2/14/2018,AM,8:41:47,8:42:49,,,8:42:31,,,1,SV,0,,Y,0,0,0,1,0,1,,,,9:17:50,9:18:53,"Went to parking spot 2, then 1. Parking time was for location 1. Reason was unknown, parking lot was empty. Could not count packages because loaded behind van and then worker went down the ramp."
+2/14/2018,AM,9:37:43,9:38:33,,,9:38:39,,,3,CV,0,,Y,0,0,4,2,3,1,,,,10:51:21,10:53:06,"Came back with 2 tables and some cabinets, over multiple trips"
+2/14/2018,AM,10:31:38,10:32:28,,,10:32:36,,,5,SV,0,,Y,9,0,0,1,0,,,,,10:48:30,10:48:37,"Lots of food, salad bowls and bags: catering. Carried empty handcart up, then brought food one by one."
+2/15/2018,AM,,,,,,,,5,N,0,,N,0,4,4,2,0,,,,,14:27:43,14:27:46,"Truck was here when Lionel and I arrived and was still here when we left. Delivery driver unloaded multiple things in the dock, however he only delivered 4 rolling carts into the building."
+2/15/2018,AM,8:42:02,8:42:05,,,8:42:17,,,4,CV,0,,N,0,3,0,1,1,1,,,,9:25:21,9:26:07,"Had 14 boxes presumably full of maill, as well as 3 packages. A different delivery driver returned with 1 full mail box he had picked up."
+2/15/2018,AM,9:11:15,9:11:58,,,,,,8,T,0,,N,0,0,0,1,1,1,,,,,9:17:15,"Truck came to pick up dumpster. He never turned off his engine, and parked near the dumpster."
+2/15/2018,AM,9:44:40,9:45:02,,,9:45:09,,,3,B,0,,N,2,1,1,1,0,,,,,10:03:48,10:04:07,Quick and efficient delivery.
+2/15/2018,AM,10:06:05,10:06:59,,,,,,8,T,0,,N,0,1,1,1,0,,,,,,10:11:50,Truck came to return empty dumpster
+2/15/2018,AM,10:10:56,10:11:55,,,10:12:07,,,3,B,0,,Y,0,13,0,1,0,,,,,10:32:59,10:33:15,"Mostly delivered soda. When he arrived, he complained to Mike about the large truck that picks up garbage and how it makes it difficult to enter."
+2/15/2018,AM,10:42:55,10:43:38,,,10:43:45,,,2,CV,1,,Y,3,10,0,1,0,,,,,11:37:21,11:37:40,"Nothing of note, typical UPS delivery."
+2/15/2018,AM,11:24:03,11:24:36,,,11:24:56,,,3,P,1,,N,0,4,0,1,0,,,,,11:26:35,11:26:40,"Met someone in loading dock, and unloaded 4 Cisco boxes. Very quick delivery."
+2/15/2018,AM,,,,,,,,2,CV,0,,,,,,1,0,,,,,8:11:03,8:11:12,This vehicle was parked there when we came in. We don't know how long it has been in that location.
+2/15/2018,AM,8:09:01,8:09:40,,,8:09:48,,,1,V,0,,Y,0,5,0,1,0,,,,,9:02:41,9:02:54,The dirver carries drinks to the building  (i.e Soda)
+2/15/2018,AM,8:18:20,8:19:01,,,8:19:02,,,8,V,0,,Y,0,0,0,1,0,,,,,8:19:56,8:20:13,"He parked and moved to another area ( not a loading bay) , which was a pedastrian zone lane"
+2/15/2018,AM,8:49:52,8:50:11,,,8:51:16,,,2,CV,0,,N,0,1,0,1,0,,,,,9:51:49,9:53:32,Service Van
+2/15/2018,AM,9:29:40,9:30:17,,,9:31:37,,,4,B,0,,Y,50,3,0,1,8,,,,,11:29:08,11:29:40,Not able to count but there are  alot of packages (50ish). Pallet Jack was used
+2/15/2018,AM,9:59:29,9:59:45,,,10:00:31,,,2,CV,0,,Y,0,5,0,1,0,,,,,10:33:53,10:34:42,He carries clothes (uniform for the building workers). And he uses the basket to bring to carry them.
+2/15/2018,AM,10:37:35,10:38:06,,,10:38:08,,,3,P,0,,N,0,0,0,1,0,,,,,10:43:09,10:43:28,
+2/15/2018,AM,11:44:59,11:45:07,,,11:45:10,,,4,CV,0,,Y,0,2,0,1,0,,,,,12:01:08,12:01:37,
+2/15/2018,PM,12:14:00,12:14:48,,,14:48:57,,,3,B,0,,Y,0,0,0,2,188,1,,,,13:55:11,13:55:17,"deliver nothing , but pick up a lot, big packages"
+2/15/2018,PM,12:51:40,12:51:51,,,12:51:55,,,1,V,0,,N,0,0,0,1,1,1,,,,13:17:00,13:17:06,"deliver nothing , but pick up a box of documents"
+2/15/2018,PM,14:24:05,14:25:34,,,14:25:39,,,3,V,1,,Y,8,1,0,1,0,,,,,15:07:48,15:07:53,deliver sucessful
+2/15/2018,PM,14:53:02,14:54:13,,,14:54:22,,,5,V,0,,N,0,0,0,1,0,,,,,15:24:40,15:24:50,"delivery a few envelops, and pickl up many box of documents"
+2/15/2018,PM,13:26:31,13:27:13,,,13:27:14,,,1,V,0,,Y,,27,,1,21,1,,,,14:49:30,14:49:39,"deliver new printer, pick up used for recycling"
+2/15/2018,PM,14:03:17,14:04:18,,,14:05:13,,,2,B,1,,Y,,9,,1,0,,,,,14:32:36,14:33:47,
+2/15/2018,PM,15:01:11,15:01:37,,,15:01:39,,,2,SV,0,,Y,,,,,,,,,,15:42:58,15:43:00,"not for delivery, with a tool box, contractor company"
+2/16/2018,PM,12:35:29,12:37:08,,,12:37:10,,,3,SV,1,,Y,0,1,5,1,0,,,,,12:58:53,12:59:29,"Quick and efficient. One of the boxes was labeled ""HP"""
+2/16/2018,PM,13:23:01,13:23:45,,,13:23:55,,,1, V,0,,N,0,0,0,1,0,,,,,13:34:43,13:35:20,"Quick and efficient. No packages, delivered 4 boxes full of mail. Replaced by another driver who had his own box of mail."
+2/16/2018,PM,14:58:19,14:59:03,,,14:59:05,,,5,CV,0,,N,0,0,0,1,0,,,,,15:21:50,15:23:06,"Delivered nothing, but picked up about 14 boxes full of mail. "
+2/16/2018,PM,15:20:00,15:20:45,,,15:20:47,,,3,V,0,,N,0,0,0,1,0,,,,,15:35:40,15:36:47,Did not deliver or pick up anything.
+2/16/2018,AM,8:20:27,8:21:09,,,8:21:25,,,2,B,0,,N,1,0,8,3,0,,,,,8:33:59,8:34:26,The driver in the truck was helped by two workers in the building. Therefore total delivery workers=3
+2/16/2018,AM,8:33:20,8:34:35,,,8:34:40,,,4,B,0,,N,0,0,20,2,0,,,,,10:15:54,10:16:26,"Packages are sets of trolleys and bins shown in images 2 and 3. Truck crashed with another truck at location 3. Initially engine was on at 9:57:53, but after crashing, he turned off engine at 10:00:45, driver from the other truck was called, they had a talk and the engine was finally turned on at 10:15:54 and he left."
+2/16/2018,AM,8:38:54,8:39:06,,,8:39:09,,,1,V,0,,N,0,0,0,1,0,,,,,10:09:24,10:10:12,"Pickup of 5 boxes with documents was done (shown in image 2). Apart from this, another package from a City of Seattle van at location 2 was put in."
+2/16/2018,AM,8:41:42,8:41:53,,,8:41:57,,,5,P,1,,N,1,0,0,1,0,,,,,8:53:35,8:54:12,"Driver came in a Honda Fit passenger car, delivered a small package and left in a short while."
+2/16/2018,AM,9:04:34,9:04:42,9:06:18,,9:04:51,9:06:21,,5,V,0,,N,0,0,0,1,6,1,,,,9:20:06,9:22:38,"6 orange trolleys were picked up. Van was first parked at location 2 at 9:04:42, engine off at 9:04:51. But after that, he turned the engine on at 9:05:40 and moved to location 5 and parked at 9:06:18. "
+2/16/2018,AM,9:59:03,9:59:10,,,,,,2,V,0,,N,0,1,0,1,0,,,,,,10:00:20,"Driver came for a very short time, put the package in the City of Seattle in the adjacent van at location 1 and left. The engine was not turned off as the vehicle stood only for a minute "
+2/16/2018,AM,10:44:15,10:45:24,,,10:45:34,,,2,B ,0,,Y,0,0,1,2,0,,,,,14:20:53,14:21:22,"Oversized package in image 3. Apart from this, a few other items (not packages) shown in image 2 were also delivered. Truck was there when I left. "
+2/16/2018,AM,11:49:27,11:49:49,,,11:49:51,,,5,P,1,,Y,0,2,0,1,1,1,,,,12:02:15,12:02:36,Ford passenger vehicle. The package picked up was large sized.
+2/16/2018,AM,,,,,,,,3,B,0,,,,,,,,,,,,8:07:07,8:07:18,Already here before 8:00:00
+2/16/2018,AM,8:28:31,8:29:01,,,8:29:06,,,5,V,0,,Y,0,4,0,1,,,,,,8:32:58,8:35:26,"A worker came from the building to deliver, driver dropdown packages and left"
+2/16/2018,AM,8:36:04,8:37:52,,,8:38:03,,,3,B,0,,Y,,184,,2,,,,,,10:54:35,10:55:10,"four rounds delivery, and pick up a TV, 31 packages, accident happened, a side mirro is broken"
+2/16/2018,AM,9:14:30,9:15:43,,,9:16:03,,,8,SV,0,,N,,,,,,,,,,9:37:38,9:40:51,Not for delivery
+2/16/2018,AM,10:06:38,10:07:10,,,10:07:27,,,5,V,0,,N,,2,,1,2,1,,,,10:45:38,10:46:07,"Delivery twice, deliver new printers and pick up used ones"
+2/16/2018,AM,11:26:16,11:27:04,,,11:27:07,,,4,CV,1,,Y,4,6,,1,0,,,,,12:11:34,12:11:53,
+2/16/2018,AM,12:04:52,12:05:07,,,12:05:10,,,1,P,0,,N,,,,,,,,,,12:45:47,12:45:43,"not for delivery, with a tool box"
+2/16/2018,AM,15:12:56,15:13:19,,,15:23:23,,,1,V,0,,N,,,,,,,,,,,,"not for delivery, with different tools and materials"
+2/16/2018,AM,15:22:29,15:23:02,,,15:23:09,,,2,B,0,,Y,,,,1,6,,,,,,,"Pick up work surfaces, table legs.etc  about 6 large oversize packages"
+4/2/2018,AM,,,,,,,,3,CV,,,Y,,,,1,,,,,,8:53:09,8:53:13,CARGO VAN WAS ALREADY PARKED WHEN I ARRIVED. 
+4/2/2018,AM,8:47:34,8:47:39,,,8:47:41,,,1,CV,,,Y,1,,,1,,,,,,9:30:24,9:30:30,
+4/2/2018,AM,9:02:54,9:03:56,,,9:04:00,,,3,T,,,N,,,1,1,,,,,,9:12:45,9:12:54,ONE BIG WHITE BOARD WAS DELIVERED
+4/2/2018,AM,9:28:15,9:30:59,,,9:31:37,,,3,CV,,,Y,10,60,0,1,,,,,,10:07:09,10:07:32,LOADING AND UNLOADING SEVERAL TIMES DUE TO MANY BOXES.
+4/2/2018,AM,11:44:42,11:45:30,,,11:45:33,,,5,CV,,,Y,,,,2,,,,,,14:45:57,14:47:01,NO PACKAGES TOOK IN JUST TOOK FOR SERVICE REPAIR
+4/2/2018,PM,12:02:46,12:02:49,,,12:02:59,,,8,P,1,,N,,,,1,,,,,,12:37:52,12:37:59,PASSENGER TRUCK PARKED ON THE WALL OF THE GARAGE NOT IN DESISNATED PLACE
+4/2/2018,PM,12:29:18,12:29:48,,,12:29:53,,,3,T,1,,Y,1,6,,2,,,,,,12:39:39,12:39:59,
+4/2/2018,PM,12:58:46,12:58:58,,,12:59:23,,,3,P,,,N,,,,1,,,,,,13:01:41,13:01:54,A PASSENGER VEHICLE THAT CAME TO TALK TO SECURITY 
+4/2/2018,PM,13:10:09,13:10:42,,,13:10:56,,,3,CV,,,Y,1,,1,,,,,,,13:45:01,13:45:13,
+4/2/2018,PM,15:29:20,15:29:30,,,15:29:34,,,1,CV,,,Y,1,1,,1,,,,,,,,SHIFT TIME WAS UP COULD NOT RECORD TIME OUT. 
+4/2/2018,PM,13:47:38,13:47:42,,,13:47:45,,,1,Van,,,N,,,,1,,,,,,13:53:47,13:53:57,
+4/2/2018,PM,14:23:35,14:24:24,,,14:24:26,,,1,Van,,1,Y,,,,1,1,1,,,,14:40:42,14:40:48,
+4/2/2018,PM,14:48:45,14:49:31,,,14:49:35,,,5,Van,,,N,,,,1,,,,,,15:12:07,15:12:32,All mail delivery
+4/2/2018,AM,,,,,,,,4,P,,,N,,,,1,,,,,,8:56:40,8:57:30,The Toyota Camry was parked at location 4 before 7:45. A worker entered the car and left at 8:57:30. No packages were there.
+4/2/2018,AM,8:27:46,8:28:14,,,8:28:17,,,5,SV,,,N,,,,2,,,,,,9:39:30,9:42:57,2 workers came with a document. No packages picked or delivered.
+4/2/2018,AM,9:24:58,9:25:45,,,9:26:19,,,2,B,,,Y,,102,,1,,,,,,9:40:45,9:40:54,4 stacks showed in images. Total 102 packages in these 4 stacks.
+4/2/2018,AM,10:45:57,10:46:39,,,10:46:41,,,4,CV,1,,Y,7,4,1,2,,,,,,11:36:21,11:36:27,The time for the locker was recorded by the person incharge. Only the before data is provided here by me.
+4/2/2018,AM,11:51:12,11:51:37,,,11:51:39,,,2,P,,,N,,,,2,,,,,,11:53:54,11:53:57,"Workers came out, took 3 ladders and went back in the open truck."
+4/2/2018,PM,12:34:05,12:34:10,,,12:34:12,,,1,V,,,N,,1,,1,3,1,,,,13:24:13,13:24:43,"One Driver deliver one tray of mails, and then another driver came back with three trays of mails"
+4/2/2018,PM,13:00:48,13:01:30,,,13:01:31,,,4,CV,,,Y,,,,1,,,,,,13:45:29,13:45:35,"Not here for delivery, the driver stay in the veichles for a long time, and took an empty handtruck out and left, and finally came back with an empty handtruck back"
+4/2/2018,PM,14:04:41,14:04:48,,,14:04:49,,,4,P,,,Y,,,,1,,,,,,14:06:26,14:07:07,"This car drove from the upper garage, and pick up a person waiting in the loading dock with a handtruck and a large package and they left together"
+4/2/2018,PM,15:13:12,15:13:17,,,15:13:20,,,,P,,,,,,,1,,,,,,,,"This car is not here for delivery, the driver just parked beside the wall and say hello to the security and left, didn't come back before 4:00pm"
+4/3/2018,AM,8:55:20,8:56:33,,,8:56:33,,,4,B,,,Y,,,2,1,15,1,,,,11:52:29,11:52:33,"This truck turned on its engine then began to leave, but then stayed in the space and was still in the space until my shift ended"
+4/3/2018,AM,8:56:00,8:57:50,,,8:59:26,,,3,B,,,Y,,,1,1,,,,,,10:50:59,10:51:39,"This truck picked up 9 large cart fulls of office stuff (chairs, computer stuff, etc)"
+4/3/2018,AM,9:32:24,9:33:20,,,9:33:43,,,1,P,,1,Y,,,,1,6,1,,,,10:07:41,10:08:02,
+4/3/2018,AM,11:00:31,11:01:03,,,11:01:11,,,3,P,,,Y,,,,1,,,,,,11:38:01,11:38:03,The enter time is when the truck entered the general loading bay area. It is not the time it entered in from the street because the truck came to the loading bay from the parking garage in the building.
+4/3/2018,AM,11:07:23,11:08:07,,,11:08:09,,,2,B,,,Y,,,,1,,,,,,,,This truck was still here when I left. Isaias took a picture of the sheet and will finish recording this truck's information.
+4/3/2018,AM,,,,,,,,3,SV,,,,,,,2,,,,,,8:26:30,8:26:40,
+4/3/2018,AM,,,,,,,,5,V,1,,Y,,5,,1,,,,,,8:42:00,8:42:10,
+4/3/2018,AM,8:21:30,8:21:36,,,8:21:39,,,1,V,,,N,,,,1,,,,,,8:42:10,8:43:19,
+4/3/2018,AM,8:44:21,8:44:25,,,8:44:27,,,1,B,,,N,,,,1,,,,,,8:45:00,8:45:15,
+4/3/2018,AM,9:36:34,9:37:10,,,9:37:34,,,5,V,,,Y,2,3,,1,,,,,,12:10:20,12:10:28,HE BROUGHT BACK 3 EMPTY OLD TONNERS FROM OFFICE
+4/3/2018,AM,13:02:43,13:02:48,,,13:02:52,,,5,P,,,N,,,,2,,,,,,12:14:08,12:14:45,PASSENGER CAR CAME FOR VISIT
+4/3/2018,AM,11:12:45,11:12:47,,,11:12:52,,,1,P,,,N,,,,1,,,,,,11:19:56,11:20:24,"COMMERCIAL VEHICLE WITH A PERMIT TAG ON THE FRONT MIRROR , HE TOOK SOME PAPER AND LEFT"
+4/3/2018,PM,13:08:12,13:08:20,,,13:08:30,,,3,B,1,,Y,,28,,1,,,,,,13:45:22,13:46:02,
+4/3/2018,PM,13:06:37,13:06:44,,,13:06:47,,,2,V,,,N,,,,2,,,,,,13:08:27,13:08:44,WHITE VAN JUST PARKED AT LOCATION 2 THEN MOVED TO PARKING SPOT BY THE WALL INSIDE THE LODING AREA
+4/3/2018,PM,13:17:46,13:18:46,,,13:18:50,,,4,V,1,,Y,4,,,1,,,,,,13:28:47,13:28:51,HE BROUGHT BACK EMPTY TONNERS IN ABOX ( 8 OF THEM)
+4/3/2018,PM,13:17:59,13:18:05,,,13:18:06,,,1,P,,,N,,,,1,,,,,,13:21:18,13:21:23,PASSANGER CAR CAME FOR VISIT AND LEFT IMMEDIATELY
+4/3/2018,AM,11:07:23,11:08:07,,,11:08:09,,,2,B ,,,Y,,,,1,,,,,,12:41:17,12:41:33,NO NAME ON THE VEHICLE BUT MIKE INDICATED THAT IT WAS KEENEYS AND MET WORKER AND CONFIRMED
+4/3/2018,PM,12:12:11,12:12:14,,,12:12:19,,,1,CV,,,,,,,1,,,,,,13:10:16,13:10:37,MAIL DELIVERY TO MAIL ROOM
+4/3/2018,PM,13:27:16,13:28:07,,,13:28:09,,,2,CV,1,,Y,3,2,,1,,,,,,14:00:17,14:00:29,
+4/3/2018,PM,14:38:20,14:38:46,,,14:38:59,,,5,CV,,,Y,1,1,1,1,,,,,,15:10:27,15:11:29,TOOLS ARE BROUGHT BACK
+4/3/2018,AM,11:07:23,11:08:07,,,11:08:09,,,2,B ,,,Y,,,,1,,,,,,12:41:17,12:41:33,NO NAME ON THE VEHICLE BUT MIKE INDICATED THAT IT WAS KEENEYS AND MET WORKER AND CONFIRMED
+4/3/2018,PM,12:12:11,12:12:14,,,12:12:19,,,1,CV,,,,,,,1,,,,,,13:10:16,13:10:37,MAIL DELIVERY TO MAIL ROOM
+4/3/2018,PM,13:27:16,13:28:07,,,13:28:09,,,2,CV,1,,Y,3,2,,1,,,,,,14:00:17,14:00:29,
+4/3/2018,PM,14:38:20,14:38:46,,,14:38:59,,,5,CV,,,Y,1,1,1,1,,,,,,15:10:27,15:11:29,TOOLS ARE BROUGHT BACK
+4/4/2018,PM,12:07:08,12:07:34,,,12:07:37,,,1,CV,,,N,,1,,1,,,,,,13:33:41,13:34:08,
+4/4/2018,PM,12:20:07,12:20:35,,,12:20:38,,,4,P,,,,,,,1,,,,,,13:10:38,13:10:43,
+4/4/2018,PM,,,,,,,,5,B,,,Y,,,,,,,,,,14:59:20,14:59:27,This truck was here from before my shift.
+4/4/2018,PM,12:55:29,12:56:34,12:58:02,,12:59:09,,,2,B,,,Y,,,,1,,,,,,14:03:15,14:05:57,This truck picked up office supplies.
+4/4/2018,PM,14:38:05,14:38:19,,,x,,,2,P,,,N,,,,1,,,,,,14:41:37,14:41:45,I wrote down the wrong time for engine time off. If it helps at all I remember the lady driving just parked and turned off the engine almost immediately. sorry!!
+4/4/2018,AM,8:18:57,8:19:20,,,8:19:24,,,3,P,1,,Y,2,,,1,,,,,,8:37:40,8:37:53,
+4/4/2018,AM,8:39:04,8:39:24,,,8:39:26,,,1,V,,,Y,5,,,1,,,,,,9:00:48,9:01:05,
+4/4/2018,AM,10:25:09,10:25:34,,,10:25:41,,,4,P,,,N,,,,1,,1,,,,10:33:49,10:33:56,Only pick up tools
+4/4/2018,PM,12:22:15,12:22:22,,,12:22:28,,,3,V,,,N,,1,,1,,,,,,13:05:58,13:06:14,
+4/4/2018,PM,14:46:02,14:46:59,,,14:47:02,,,4,B,1,,Y,,,20,1,,,,,,,,The truck is still there at the end
+4/4/2018,PM,14:58:12,15:00:23,,,15:00:27,,,5,V,,1,N,,,,1,4,1,,,,15:22:12,15:22:27,(small) picked up
+4/4/2018,PM,15:53:37,15:53:49,,,15:54:20,,,2,P,,,N,,,,1,,,,,,,,"The car is still there at the end, driver didn't deliver any package."
+4/4/2018,AM,,,,,,,,4,B,,1,Y,,,,1,1,1,,,,8:54:30,8:54:41,Already here before 8 AM. Picked up package was small sized. 
+4/4/2018,AM,8:29:26,8:30:42,,,8:30:51,,,5,B,,,Y,,,,2,,,,,,,,"Just some furniture (like office chairs etc., shown in picture 2) were delivered and picked up. No packages. Truck was there till after 12 PM."
+4/4/2018,AM,8:41:29,8:42:35,,,8:43:08,,,3,B,,,Y,,42,,2,16,1,,,,10:30:26,10:31:40,The 16 boxes picked up were large sized (picture 3). 42 delivered packages are shown in picture 2.
+4/4/2018,AM,10:32:43,10:32:46,,,,,,3,P,,,N,,,,1,,,,,,,10:34:16,"Driver came in a toyota car, took a few black boxes (not packages, shown in picture 2) and left. Engine was not turned off."
+4/5/2018,AM,9:14:23,0:14:51,,,9:14:57,,,3,P,,,N,,,,1,,,,,,9:34:23,9:34:38,Dropped off misc. goods include two loarge outdoor canopy tents
+4/5/2018,AM,9:54:42,9:55:14,,,9:55:16,,,5,P,,,Y,,,,1,,,,,,10:18:24,10:18:27,"Delivering/bringing metal pipe pieces, one oversize box of pieces, and one set of large oversize pipes"
+4/5/2018,AM,9:57:46,9:59:40,,,9:59:50,,,4,CV,,,Y,,11,,1,5,1,,,,10:25:07,10:23:13,Picked up items were to recycle (printing stuff)
+4/5/2018,PM,11:32:48,11:33:16,,,11:33:18,,,3,B,,,N,,,,1,,,,,,,,Shift ended before this truck left.
+4/5/2018,AM,8:02:30,8:03:15,,,8:03:55,,,4,B,,,Y,,30,,2,,,,,,8:19:41,8:20:16,
+4/5/2018,AM,8:27:24,8:28:01,,,8:28:03,,,4,CV,,,Y,,,,1,,,,,,9:10:14,9:11:12,DELIVERED CLOTHES TO THE BUILDING
+4/5/2018,AM,10:08:00,10:08:43,,,10:08:45,,,1,B,,,Y,,,,2,,,,,,10:12:32,10:12:55,THEY PUT TOOLS
+4/5/2018,PM,12:50:20,12:50:24,,,12:50:30,,,3,P,,,Y,,,,1,,,,,,13:24:30,13:24:39,HE HAD TOOLS AND WENT UPSTAIRS
+4/5/2018,PM,13:28:02,13:28:28,,,13:28:40,,,2,B,1,,Y,,4,,1,,,,,,13:44:35,13:49:57,
+4/5/2018,PM,13:58:17,13:58:30,,,13:58:36,,,5,V,,,Y,,18,,1,,,,,,14:30:40,14:30:49,
+4/5/2018,PM,14:44:35,14:45:59,,,14:46:06,,,3,B,,,Y,,,,2,,,,,,14:58:42,14:59:09,TOOK SOME MATERIALS
+4/5/2018,PM,12:20:21,12:20:30,,,12:20:38,,,2,V,,,N,,,,1,1,1,,,,13:00:24,13:00:28,Pick up a box of documents
+4/5/2018,PM,12:31:46,12:32:09,,,12:32:20,,,2,SV,,,N,,,,1,1,1,,,,12:39:43,12:41:08,pick up some graphs and engineering drawings
+4/5/2018,PM,13:26:32,13:26:36,,,13:26:43,,,3,SV,1,,Y,,2,,1,,,,,,13:50:25,13:50:52,
+4/5/2018,PM,13:57:12,13:58:03,,,13:48:44,,,1,B,,,N,,,,1,,,,,,,,
+4/5/2018,PM,14:04:41,14:05:09,,,14:05:12,,,3,SV,,1,Y,,,,1,3,1,,,,14:25:04,14:25:19,
+4/5/2018,PM,15:12:29,15:12:53,,,15:13:06,,,4,SV,,,N,,,,1,1,1,,,,15:40:10,15:40:13,Pick up envelops 
+4/5/2018,AM,8:14:25,8:15:36,,,8:15:54,,,5,B,,,N,,,,3,,,,,,8:40:15,8:40:45,
+4/5/2018,AM,8:38:35,8:38:38,,,8:38:42,,,1,V,,,Y,,,,1,,,,,,9:04:05,9:05:17,trays of mails
+4/5/2018,AM,9:46:52,9:47:02,,,9:51:46,,,1,SV,,,Y,,,,2,,,,,,10:02:03,10:02:04,"here to meet someone about electric stuffs, one of them got off to talk to the security guard, another waited in the car with engine on,after unloading all tools, the driver left, the other stayed"
+4/5/2018,AM,9:59:29,10:01:03,10:01:37,,10:01:38,,,2,B,,,Y,,,2,1,2,1,,,,10:09:34,10:10:56,replace the old ones
+4/5/2018,AM,10:32:44,10:33:28,,,10:33:29,,,4,P,,,Y,,,,2,4,1,,,,10:34:51,10:35:14,"pick up another person and her packages, left together "
+4/6/2018,AM,11:55:25,11:56:14,,,12:00:21,,,2,B,,1,Y,,,,1,2,1,,,,,,"The truck is still there at the end, picked up some chairs and two large packages"
+4/6/2018,PM,12:02:35,12:02:46,,,12:02:52,,,3,P,,,Y,,10,,1,,,,,,12:18:39,12:18:43,
+4/6/2018,PM,12:05:45,12:05:55,,,12:05:59,,,4,P,,,Y,,,,1,,1,,,,12:11:47,12:11:49,Just pick up tools
+4/6/2018,PM,12:20:01,12:20:05,,,12:20:08,,,1,V,,,N,1,,,1,,,,,,13:03:30,13:03:43,
+4/6/2018,PM,13:09:13,13:09:25,,,13:09:44,,,4,V,,,Y,,2,,1,,,,,,13:30:31,13:31:24,
+4/6/2018,PM,13:54:06,13:54:44,,,13:54:48,,,4,B,,,Y,,,20,1,,,,,,14:39:45,14:39:50,
+4/6/2018,PM,14:43:02,14:43:41,,,14:43:45,,,4,SV,,,N,,,,1,,,,,,,,The truck is still there at the end
+4/6/2018,PM,15:21:42,15:22:57,,,15:23:53,,,5,CV,,,Y,,,,1,,,,,,,,"The truck is still there at the end, delivered a lot of water bottles(I didn't count them since they are not packages)."
+4/6/2018,PM,15:29:05,15:29:27,,,15:29:33,,,3,B,,,Y,,,19,1,,,,,,,,The truck is still there at the end
+4/6/2018,PM,12:17:44,12:17:50,,,12:19:04,,,4,V,,,N,,,,1,,,,,,12:19:06,12:19:09,The truck was moving from parking location 4 to parking location 7 
+4/6/2018,PM,,,12:19:40,,,12:19:41,,7,V,,,N,,,,1,,,,,,13:57:17,13:57:33,The truck was moving from parking location 4 to parking location 7 
+4/6/2018,PM,12:40:56,12:41:55,,,12:41:56,,,4,P,,,N,,,,1,,,,,,12:48:20,12:53:24,The big difference between the engine on time and the truck leaving is because the truck driver try to put one big box onto the truck while the engine is on 
+4/6/2018,PM,13:14:57,13:15:42,,,13:15:44,,,3,P,,,N,,5,,1,,,,,,13:18:10,13:18:12,
+4/6/2018,PM,14:35:58,14:36:13,,,14:37:00,,,5,SV,,,N,,,,1,,,,,,14:55:42,14:56:11,This guy doesn't have any packages in his vav. He just took some USPS boxes from the loading doc
+4/6/2018,PM,15:54:20,15:56:11,,,15:56:16,,,1,CV,,,N,6,,,2,,,,,,,,This truck came just before my shift end so I didn't get to see when they leave 
+4/6/2018,AM,10:40:46,10:40:50,,,10:40:55,,,1,P,,,N,2,,,1,,,,,,10:54:24,10:54:28,COMPANY NAME NO INDICATED ASKED WORK TO COMPANY NAME
+4/6/2018,AM,10:42:47,10:42:44,,,10:43:02,,,2,SV,,,N,,,,1,,,,,,10:44:02,10:44:27,STAYED FOR 2 MIN AND LEFT
+4/6/2018,AM,10:49:05,10:50:11,,,10:50:13,,,5,CV,,,N,,,,1,,,,,,13:09:53,13:09:56,
+4/6/2018,AM,11:29:32,11:30:02,,,11:30:11,,,2,T,,,Y,,,4,1,,,,,,11:39:54,11:40:01,HAD BIG OVERSIZE PACKAGE THAT NEED ELECTORNIC CART.
+4/6/2018,AM,8:19:18,8:20:28,,,8:20:31,,,4,CV,,,N,,,,2,,,,,,8:47:15,8:47:19,"All furniture, mostly chairs"
+4/6/2018,AM,8:28:22,8:29:07,,,8:30:39,,,3,CV,,,Y,,60,,1,,,,,,9:28:44,9:29:47,
+4/6/2018,AM,8:40:21,8:40:25,,,8:40:27,,,1,Van,,,Y,,,,1,,,,,,9:05:46,9:05:48,All mail delivery
+4/6/2018,AM,9:11:14,9:12:38,,,9:12:41,,,5,Van,,,N,,,,1,,,,,,12:11:59,12:12:09,Bring in mostly Tools and move the parking spot from 5 to side park.
+4/6/2018,AM,9:14:19,9:15:01,,,9:15:08,,,4,CV,,,Y,,,,1,,,,,,9:25:04,9:25:12,
+4/6/2018,AM,9:28:28,9:28:38,,,9:28:41,,,5,SV,,,N,,,,1,,,,,,10:09:05,10:09:10,
+4/6/2018,AM,9:33:17,9:33:26,,,9:33:29,,,1,V,,,N,,1,,1,1,1,,,,10:33:47,10:33:52,
+4/6/2018,AM,9:47:26,9:47:46,,,9:47:52,,,3,P,,,Y,,8,,1,,,,,,10:07:22,10:07:40,
+4/6/2018,AM,10:03:40,10:05:54,,,10:06:07,,,4,CV,,,Y,,,,2,,,,,,11:16:37,11:16:45,Pick up used refrigerator and some furnitures.
+4/6/2018,AM,10:33:25,10:33:58,,,10:34:02,,,5,V,,,Y,1,1,,1,4,1,,,,10:48:14,10:48:29,
+4/6/2018,AM,10:51:58,10:52:33,,,10:52:34,,,2,CV,1,,Y,6,11,,1,,,,,,11:28:06,11:28:07,
+4/6/2018,AM,11:19:19,11:20:10,,,11:20:12,,,3,T,,,Y,,,1,1,,,,,,11:58:51,11:58:59,
+4/9/2018,AM,,,,,,,,1,CV,1,,N,1,0,0,2,,,,,,8:16:17,8:16:23,VEHICLE WAS ALREADY THERE WHEN I ARRIVED
+4/9/2018,AM,,,,,,,,3,B,,,N,0,0,0,1,,,,,,9:01:47,9:01:52,VEHICLE WAS ALREADY THERE WHEN I ARRIVED
+4/9/2018,AM,,,,,,,,4,B,,,Y,0,2,0,1,,,,,,8:22:33,8:22:38,VEHICLE WAS ALREADY THERE WHEN I ARRIVED
+4/9/2018,AM,,,,,,,,5,P,,,N,0,0,0,1,,,,,,8:06:47,8:06:55,VEHICLE WAS ALREADY THERE WHEN I ARRIVED
+4/9/2018,AM,8:42:27,8:44:52,,,8:45:03,,,2,CV,,,Y,1,1,0,1,,,,,,9:27:41,9:29:33,REPARK AT LOCATION 5 AT 8:48:02 ( ENGINE O) 8:48:32 ( ENGINE OFF)
+4/9/2018,AM,8:56:12,8:57:00,,,8:57:23,,,1,CV,,,N,0,0,0,1,,,,,,10:07:26,10:07:24,DID NOT CARRY PACKAGES
+4/9/2018,AM,9:20:24,9:21:12,,,9:21:24,,,4,CB,,,N,0,0,0,1,,,,,,9:29:41,9:29:51,
+4/9/2018,AM,11:18:14,11:18:54,,,11:19:00,,,5,CV,,,N,0,1,0,1,,,,,,11:21:21,11:22:27,
+4/9/2018,AM,11:20:27,11:21:45,,,11:21:49,,,3,T,,,Y,0,0,4,1,,,,,,11:51:46,11:52:25,3 BIG PRINTER AND  1 TV
+4/9/2018,AM,11:43:20,11:43:46,,,11:44:00,,,7,CV,,,Y,0,8,0,1,,,,,,12:10:10,12:10:18,TOOK 8 WATER BINGE AND BROUGHT BACK 9 EMPTY ONES. 
+4/9/2018,AM,12:43:53,12:45:24,,,12:45:28,,,2,B,,,Y,0,0,0,1,,,,,,13:28:22,13:28:27,
+4/9/2018,AM,13:03:41,13:03:48,,,13:03:52,,,1,CV,,,N,0,0,0,1,,,,,,13:24:14,13:25:21,
+4/9/2018,AM,14:35:53,14:36:28,,,14:36:30,,,1,CV,,,N,0,0,0,1,,,,,,15:51:25,15:51:27,
+4/9/2018,PM,13:49:59,13:50:45,,,13:50:50,,,3,CV,1,,Y,4,7,0,1,1,1,2,1,5,14:36:57,14:37:22,1 pick up package and 2 failed delivery 
+4/9/2018,PM,13:56:29,13:56:50,,,13:56:55,,,5,P,,,N,0,0,0,1,,,,,,,After 4,Didn't leave the parking lot till 4.
+4/9/2018,PM,14:29:18,14:29:25,,,14:29:28,,,4,P,,,N,0,0,0,1,,,,,,14:44:52,14:45:14,Bring 2 sign into the building
+4/9/2018,PM,14:43:56,14:44:42,,,14:44:43,,,3,V,,,N,0,0,0,1,,,,,,15:09:31,15:09:34,All mail delivery
+4/9/2018,AM,,8:06:37,,,8:06:45,,,2,B,,,Y,,44,,1,,,,,,8:15:08,8:15:18,App crashed due to which enter time could not be recorded (but it was somewhere around 8:06). Image 2 shows the packages.
+4/9/2018,AM,8:29:40,8:30:13,8:30:46,,8:30:51,,,2,B,,,Y,1,84,,1,,,,,,8:42:14,8:44:01,84 large boxes and 1 small box delivered in 3 stacks.
+4/9/2018,AM,8:49:13,8:49:37,,,8:49:42,,,2,B,,,Y,,,,1,,,,,,12:24:19,12:24:23,Some supplies were delivered (image 2)- No packages. The truck was here when I left so the out time was probably recorded by Jae.
+4/9/2018,AM,9:43:36,9:44:01,,,9:44:04,,,5,CV,,,N,,1,,1,,,,,,9:50:33,9:50:52,
+4/9/2018,AM,10:09:29,10:10:13,10:14:14,,10:10:16,10:14:58,,4,B,,,Y,,,,1,,,,,,12:30:23,12:31:36,Turned engine on at 10:14:03 and parked for the second time at 10:14:14.  The truck was here when I left so the out time was probably recorded by Jae. Just some supplies delivered- no packages..
+4/9/2018,AM,10:16:45,10:17:09,,,10:17:19,,,3,P,,,N,,,,1,,,,,,10:20:54,10:22:16,"Some supplies picked up( metal sheets, ladders etc.)-no  packages."
+4/9/2018,AM,10:37:40,10:38:24,,,10:38:28,,,3,V,,,Y,1,,,1,,,,,,10:53:46,10:54:24,
+4/9/2018,AM,10:37:48,10:39:03,,,10:39:08,,,5,SV,,,N,,,,2,,,,,,11:10:13,11:10:35,No packages taken or delivered.
+4/9/2018,AM,10:44:13,10:45:30,,,10:45:35,,,1,V,1,,Y,,2,,1,9,1,,,,11:14:26,11:14:44,Packages picked up were oversized.
+4/9/2018,AM,11:39:42,11:41:28,,,11:41:33,,,1,B,,,Y,,,,1,,,,,,11:50:33,11:50:46,Delivered some supplies- no packages.
+4/10/2018,AM,9:27:41,9:28:35,,,9:28:36,,,5,CV,,,Y,,26,,1,,,7,1,6,,,Truck was still there at end of shift. It was delivering cases of soda and boxes of candy. The packages recieved were extras that were brought up and then brought back down.
+4/10/2018,AM,9:50:07,9:50:17,,,9:50:19,,,4,V ,,,N,,,,2,,,,,,9:57:01,9:57:17,Picking up half rolls of toilet paper.
+4/10/2018,AM,10:24:20,10:25:07,,,10:25:19,,,4,B,,,N,,,,1,,,,,,11:07:17,10:53:39,"Picking up office stuff (chairs, etc)"
+4/10/2018,AM,10:42:27,10:43:41,,,10:43:45,,,2,B,,,Y,,,,2,,,,,,10:52:03,10:52:35,
+4/10/2018,AM,11:08:37,11:41:27,,,11:41:28,,,2,B,,,,,,,1,,,,,,12:05:09,12:05:22,Truck still here when my shift ended. I think I wrote down the wrong truck enter time. 
+4/10/2018,AM,8:24:42,8:25:00,,,8:25:03,,,1,V,,,N,,,,1,,,,,,9:03:41,9:04:15,HE BROUGHT BACK EMPTY OLD TONNERS  ( THE USUAL HP GUY)
+4/10/2018,AM,8:49:50,8:50:00,,,8:50:06,,,4,V,,,Y,,,,1,,,,,,9:17:07,9:17:42,TOOK MAILS AND ENVELOPS TO THE BUILDING
+4/10/2018,AM,10:26:40,10:26:49,,,10:26:57,,,3,B,,,Y,,,,2,,,,,,11:45:11,11:45:26,USED TWO HANDTRUCKS TO TAKE MANY ELECTRICAL CABLES FROM THE BUILDING
+4/10/2018,AM,11:56:02,11:56:31,,,11:57:04,,,4,CV,1,,Y,,16,2,1,,,1,1,1,12:34:28,12:34:30,RETURNED ONE PACKAGE (LARGE) BECAUSE THERE WAS NOONE (VACANT)
+4/10/2018,AM,12:50:29,12:50:34,,,12:50:36,,,1,V,,,N,1,1,,1,,,,,,13:16:31,13:23:20,BROUGHT BACK TWO OLD TONNERS ( THE USUAL HP GUY)
+4/10/2018,AM,13:10:13,13:10:21,,,13:10:25,,,4,P,,,Y,,7,,2,,,,,,13:11:41,13:11:46,
+4/10/2018,AM,14:28:08,14:28:29,,,14:29:02,,,5,V,,,N,,,,1,,,,,,15:09:13,15:04:18,CAME AND LEFT WITHOUT ANYTHING
+4/10/2018,PM,12:11:59,12:12:08,,,12:12:11,,,1,CV,,,N,,,,1,,,,,,12:39:45,12:39:49,
+4/10/2018,PM,13:38:02,13:38:38,,,13:38:43,,,3,CV,1,,Y,9,1,,1,,,,,,14:21:01,14:21:26,BLACK WOMEN WORKED. SEEN HER TWICE IN A WEEK
+4/10/2018,PM,14:48:04,14:48:12,,,14:48:14,,,3,CV,,,N,,,,1,,,,,,15:07:42,15:07:57,COULD NOT IDENTIFY THE COMPANY. NO LABEL AND WORKER DID NOT WEAR UNIFORM. 
+4/11/2018,PM,11:58:18,11:58:57,,,11:58:59,,,3,CV,,,Y,5,2,,1,4,1,,,,12:25:44,12:26:05,Picked up items were taken to be recycled.
+4/11/2018,PM,12:50:18,12:50:20,,,-,,,3,P,,,N,,,,,,,,,,,12:51:02,"Dropped off a lady and then left, did not turn off engine."
+4/11/2018,PM,14:09:08,14:09:13,,,14:09:14,,,8,P,1,,Y,1,4,,1,,,,,,14:15:34,14:15:37,
+4/11/2018,PM,14:15:09,14:15:25,,,-,,,2,V ,,,N,,,,,,,,,,,14:33:49,"Never shut off engine or got out, just pulled in, idled,then left."
+4/11/2018,PM,14:34:41,14:35:03,,,14:35:04,,,4,P,,,N,,,,1,,,,,,14:53:35,14:54:02,No packages. Stuff that was delivered/counted all count as construction material.
+4/11/2018,PM,15:04:12,15:04:17,,,15:04:18,,,8,P,,,N,,,,1,,,,,,15:48:28,15:49:36,
+4/11/2018,PM,15:37:12,15:37:42,,,15:38:44,,,4,B,,,N,,,,1,,,,,,14:45:55,14:45:56,Blood donation truck
+4/11/2018,AM,8:16:27,8:17:00,,,8:17:05,,,4,B,,,Y,1,4,0,1,,1,,,,8:25:38,8:25:49,Customers return
+4/11/2018,AM,8:46:16,8:46:29,,,8:46:34,,,1,P,,,N,0,0,0,1,,,,,,9:51:49,9:55:18,Didn't deliver or pick up package
+4/11/2018,AM,9:36:12,9:36:40,,,9:36:43,,,3,CV,,,N,0,1,0,1,,,,,,9:39:15,9:39:25,
+4/11/2018,AM,9:42:35,9:42:43,,,-,,,3,V,,,N,0,0,0,2,,,,,,,9:51:21,"Not for delivering or picking up package, engine never turned off."
+4/11/2018,AM,10:46:58,10:47:22,,,10:47:30,,,8,Not sure ,,,N,0,0,0,2,,,,,,14:00:37,14:00:54,"Parked against the wall, not sure the type of vehicle, not for delivering or picking."
+4/11/2018,AM,11:05:44,11:06:03,,,11:06:06,,,2,B,,,Y,0,1,0,1,,,,,,11:20:19,11:20:42,
+4/11/2018,AM,11:46:10,11:46:29,,,11:46:36,,,1,SV,,,Y,1,4,0,1,,,,,,11:57:27,11:57:34,Back with 4 empty large boxes.
+4/11/2018,PM,12:13:33,12:13:41,,,12:13:43,,,1,CV,,,N,0,0,0,1,,,,,,13:05:41,13:05:45,Delivered some tools not packages
+4/11/2018,PM,13:39:21,13:40:15,,,13:41:11,,,5,SV,,,N,0,0,0,2,,,,,,14:05:57,14:06:02,Not for delivering or picking up package. Forgot to take pictures.
+4/11/2018,PM,14:25:26,14:25:44,,,14:25:46,,,5,P,,,Y,0,0,0,2,,1,,,,,,"The truck is still there at the end, picked some electric equipments. There was a oversized box with tools inside."
+4/11/2018,PM,14:44:55,14:45:53,,,14:45:57,,,3,CV,,,Y,0,0,0,1,,1,,,,,,"The truck is still there at the end, picked some letters."
+4/11/2018,AM,,,,,,,,5,B,,,Y,,,,2,,,,,,11:04:56,11:04:59,Already here before 8 AM. Some supplies delivered- no packages.
+4/11/2018,AM,8:36:13,8:37:01,8:38:00,,8:38:27,,,4,B,1,,Y,,1,,2,,,,,,13:07:16,13:08:45,Some supplies with a large box were delivered. Truck was there when I left. Combined with Catherine's data
+4/11/2018,AM,8:47:30,8:47:52,,,8:47:53,,,3,V,,,Y,,,,1,,,,,,9:14:42,9:15:02,Some USPS mails delivered and picked up- no packages.
+4/11/2018,AM,9:38:39,9:39:22,9:40:34,,9:40:38,,,2,B,,,Y,,72,,1,23,1,,,,11:03:45,11:04:23,Picked up boxes were large sized and are shown in the image 3. Image 2 shows the delivered boxes.
+4/11/2018,AM,10:26:24,10:26:31,,,10:27:22,,,1,V,1,,N,,1,,1,,,,,,11:39:17,11:42:04,
+4/11/2018,AM,11:07:13,11:09:26,,,11:09:30,,,5,B,,,Y,32,35,,1,,,,,,12:01:09,12:01:13,32 may not be the exact number of small packages as they were closely packed and moved in a short time. The images 2 & 3 show the small and large packages.
+4/12/2018,AM,9:05:32,9:06:58,9:08:38,,9:08:45,,,4,B,1,,Y,,,4,1,,,,,,10:29:30,10:30:53,"boxes were wrapped together as oversize packages. if counted this way, there would be 4 oversize. If not, 2x 12 box records, and 2x 24 paper boxes so 72 large packages."
+4/12/2018,AM,9:21:17,9:21:20,,,9:21:33,,,3,P,,,N,,,,1,,,,,,9:23:23,9:23:26,
+4/12/2018,AM,9:31:05,9:41:54,,,9:41:59,,,3,B,,1,Y,,,,1,12,1,,,,10:27:28,10:27:36,picked up a big printer and the rest of the packages were boxes.
+4/12/2018,AM,10:44:28,10:44:30,,,10:44:31,,,8,D,,,N,,,,1,,,,,,11:15:30,11:05:31,
+4/12/2018,AM,11:28:11,11:29:00,,,11:29:01,,,2,SV,,,Y,,,,2,,,,,,11:51:59,11:52:06,
+4/12/2018,PM,12:07:52,12:08:05,,,12:08:19,,,3,V,,,Y,,,,1,,,,,,12:28:13,12:28:37,
+4/12/2018,PM,13:02:51,13:03:50,,,13:04:01,,,5,V,,,Y,,5,,2,,,,,,14:16:04,14:16:09,5 large construction stuff
+4/12/2018,PM,13:33:14,13:33:24,,,13:35:03,,,1,V,,,N,,5,,1,,,,,,14:38:08,14:38:53,He made two trips. He came back with used laser printer cartridge things. he was replacing those cartridges
+4/12/2018,PM,14:06:20,14:07:12,,,14:07:13,,,4,V,,,Y,,,,1,,,,,,14:12:47,14:12:52,
+4/12/2018,PM,14:59:02,14:59:09,,,14:59:11,,,8,P,,,N,,,,1,,,,,,15:16:29,15:16:57,The guy picked up two trash cans and possibly went to the lower parking garage
+4/12/2018,PM,15:44:15,15:44:53,,,15:46:09,,,4,B,,,Y,,,,1,,,,,,,,"Still there when I left. 1 driver at the beginning, then 4 people came from the building with carts of stuff to load the truck"
+4/12/2018,PM,15:45:56,15:46:29,,,15:46:45,,,2,SV,,,N,,,,1,,,,,,,,still there when I left
+4/12/2018,AM,8:02:42,8:03:12,,,8:03:13,,,5,P,,,N,,,,1,,,,,,8:21:00,8:21:22,Regular white van.
+4/12/2018,AM,,,,,,,,2,V ,,,N,,,,1,,,,,,8:04:29,8:04:35,Van was here before 8 am. Was a white van with no labels like line 7.
+4/12/2018,AM,8:10:00,8:10:35,,,8:10:36,,,4,V,,,Y,,,,1,,,,,,9:01:51,9:02:36,Carried lots of white boxes using the handtruck.
+4/12/2018,AM,8:45:14,8:46:25,,,8:46:41,,,5,CV,,,N,,,,1,,,,,,10:11:57,10:12:09,"Carried 2 chairs and a wooden cabinet, came back with the cabinet."
+4/12/2018,AM,,,,,,,,1,V,,,,,,,,,,,,,8:47:37,8:47:47,Came here before 8 am.
+4/12/2018,AM,10:49:51,10:49:51,,,10:49:54,,,5,V,,,Y,,,,1,,,,,,12:32:19,12:33:02,He made three trips to deliver the soda and candies. I’m finishing up what Trong started in the morning shift.
+4/12/2018,AM,11:54:53,11:55:04,,,11:55:06,,,1,V,,,N,,,,1,,,,,,13:19:10,13:19:44,I’m finishing up what Trong started in the morning shift.
+4/12/2018,AM,8:20:54,8:21:14,8:22:02,,8:22:09,,,3,B,,,Y,,,,1,,,,,,9:05:41,9:08:50,"One tray of uniforms delivered, one tray of uniform back"
+4/12/2018,AM,,,,,,,,1, V,,,Y,,,,1,,,,,,8:47:32,8:47:40,"Here before 8:00, 1 Handtruck back, this is a Candy Company, they are here to fill the candy mechine"
+4/12/2018,AM,9:01:48,9:03:06,9:09:40,,9:03:07,9:09:44,,2,B,,,Y,,,2,1,,,,,,10:06:31,10:06:35,"He unpacked the package at the loading bay frist, and took those fillers and cardboard back to the truck frist, then delivery"
+4/12/2018,AM,9:06:48,9:07:33,,,9:07:40,,,1,V,,,N,,,,2,,,,,,9:39:08,9:40:09,"not for delivery, two workers are under security vase"
+4/12/2018,AM,10:11:45,10:13:04,,,10:13:06,,,5,V,,,Y,1,,,1,,,,,,10:20:47,10:21:08,
+4/12/2018,AM,12:44:55,12:46:34,,,12:46:44,,,3,B,,1,Y,,,,1,3,1,,,,12:59:47,12:59:52,Pick up something at loading bay
+4/12/2018,AM,13:14:55,13:15:22,,,,,,4,SV,,,N,,,,2,,,,,,,13:20:22,The drive came to pickup another person and the tools
+4/12/2018,AM,13:19:49,13:20:22,13:21:20,,13:21:23,,,1 to 3,V,,,Y,2,4,,1,6,1,,,,13:45:22,13:45:40,"not for delivery. bring 6 empty boxes to the upper level and fill them, finally took the full boxes and left"
+4/12/2018,AM,14:48:57,14:49:30,,,14:50:04,,,5,V,,,N,,,1,1,,,,,,15:17:29,15:17:42,"bring a basket to upprt level without handtruck and bring trays of mails back, see the photo "
+4/13/2018,PM,12:26:18,12:26:57,,,12:27:05,,,4,B,,,Y,,,2,2,,,,,,12:58:15,12:59:02,Also brought 3 empty boxes and brought them back.
+4/13/2018,PM,13:06:33,13:06:39,,,13:06:41,,,8,P,1,,N,,,,1,,,,,,13:16:53,13:17:11,Delivered some paper documents
+4/13/2018,PM,13:39:18,13:39:39,,,13:39:43,,,2,CV,1,,Y,3,1,1,2,,,,,,13:54:27,13:54:40,
+4/13/2018,PM,14:06:54,14:07:09,,,14:07:17,,,5,P,,,Y,,,,2,,1,,,,15:42:41,15:42:48,Picked up tools
+4/13/2018,PM,14:19:48,14:20:26,,,14:20:32,,,3,SV,,,N,,,,2,,1,,,,14:25:21,14:26:19,Picked up tools
+4/13/2018,PM,14:55:21,14:55:59,,,14:56:03,,,4,CV,,,Y,,,,1,,1,,,,15:19:05,15:19:12,Picked up mails
+4/13/2018,PM,15:13:52,15:13:56,,,15:13:58,,,8,P,,,N,,,,1,,,,,,15:54:41,15:54:47,Not for delivering or picking up package
+4/13/2018,PM,15:35:31,15:36:22,,,15:36:31,,,3,P,,,Y,,,,1,9,1,,,,15:57:09,15:57:29,Picked up 9(large) packages
+4/13/2018,AM,7:56:00,7:56:27,,,7:56:30,,,1,V,,,Y,0,0,0,1,,,,,,8:59:22,8:59:27,All mail delivery
+4/13/2018,AM,8:36:14,8:36:16,,,8:36:20,,,2,SV,,,N,0,0,0,1,,,,,,8:41:26,8:42:04,
+4/13/2018,AM,8:57:33,8:57:36,,,8:57:44,,,5,P,,,N,0,0,0,1,,,,,,9:07:22,9:07:25,Take only toosl to building
+4/13/2018,AM,8:58:56,8:59:20,,,8:59:30,,,4,B,,,N,0,0,0,2,,,,,,9:31:51,9:31:59,
+4/13/2018,AM,9:22:38,9:23:57,,,9:23:59,,,3,V,,,Y,0,0,0,2,,,,,,9:28:06,9:28:10,Take only tools to building
+4/13/2018,AM,10:30:16,10:31:02,,,10:31:04,,,5,V,,,Y,0,6,0,1,1,1,,,,10:50:03,10:50:07,
+4/13/2018,AM,10:39:23,10:39:56,,,10:39:59,,,2,SV,,,Y,0,2,0,1,,,,,,11:00:24,11:00:28,
+4/13/2018,AM,11:12:05,11:13:22,,,11:13:24,,,5,CV,1,,Y,6,12,4,1,,,,,,12:19:04,12:19:17,
+4/13/2018,AM,11:36:51,11:37:11,,,11:37:14,,,1,V,1,,Y,0,2,0,1,2,1,,,,12:16:34,12:17:08,Pick up used printer ink in a box
+4/13/2018,AM,11:56:23,11:56:48,,,11:56:53,,,3,P,,,N,0,0,0,1,,1,,,,12:01:31,12:02:09,Pick up used drawer 
