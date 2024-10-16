@@ -1,0 +1,6 @@
+langchain
+haystack
+transformers
+streamlit
+pypdf
+faiss-cpu
