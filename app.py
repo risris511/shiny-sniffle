@@ -27,16 +27,16 @@ def load_documents():
 docs_after_split = load_documents()
 
 # Create embeddings
-@st.cache_resource
-def create_vectorstore(_docs):
-    huggingface_embeddings = HuggingFaceBgeEmbeddings(
-        model_name="BAAI/bge-small-en-v1.5",
-        model_kwargs={'device': 'cpu'},
-        encode_kwargs={'normalize_embeddings': True}
-    )
-    return FAISS.from_documents(_docs, huggingface_embeddings)
+# @st.cache_resource
+# def create_vectorstore(_docs):
+#     huggingface_embeddings = HuggingFaceBgeEmbeddings(
+#         model_name="BAAI/bge-small-en-v1.5",
+#         model_kwargs={'device': 'cpu'},
+#         encode_kwargs={'normalize_embeddings': True}
+#     )
+#     return FAISS.from_documents(_docs, huggingface_embeddings)
 
-vectorstore = create_vectorstore(docs_after_split)
+# vectorstore = create_vectorstore(docs_after_split)
 
 # Set up the T5 model and tokenizer
 model_id = "risris8787/rag"
@@ -49,6 +49,33 @@ hf_pipeline = HuggingFacePipeline.from_model_id(
     task="text2text-generation",
     pipeline_kwargs={"max_new_tokens": 300}
 )
+
+uploaded_files = st.file_uploader("Choose PDF files", type="pdf", accept_multiple_files=True)
+
+if uploaded_files:
+    # Load documents from uploaded files
+    docs_before_split = []
+    for uploaded_file in uploaded_files:
+        with open(os.path.join("tempDir", uploaded_file.name), "wb") as f:
+            f.write(uploaded_file.getbuffer())
+        loader = PyPDFDirectoryLoader("tempDir")  # Using temporary directory
+        docs_before_split += loader.load()
+
+    # Split the loaded documents
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=200, chunk_overlap=50)
+    docs_after_split = text_splitter.split_documents(docs_before_split)
+
+@st.cache_resource
+def create_vectorstore(_docs):
+    huggingface_embeddings = HuggingFaceBgeEmbeddings(
+        model_name="BAAI/bge-small-en-v1.5",
+        model_kwargs={'device': 'cpu'},
+        encode_kwargs={'normalize_embeddings': True}
+    )
+    return FAISS.from_documents(_docs, huggingface_embeddings)
+
+vectorstore = create_vectorstore(docs_after_split)
+
 
 # Streamlit application layout
 st.title("Document Retrieval and QA System")
@@ -65,7 +92,7 @@ if st.button("Get Answer"):
     # Set up prompt template
     prompt_template = """Use the following pieces of context to answer the question at the end. Please follow the following rules:
     1. If you don't know the answer, don't try to make up an answer. Just say "I can't find the final answer but you may want to check the following links".
-    2. If you find the answer, write the answer in a concise way with five sentences maximum.
+    2. If you find the answer, write the answer in words that humans understand.
 
     {context}
 
